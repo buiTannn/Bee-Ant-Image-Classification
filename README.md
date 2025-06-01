@@ -1,5 +1,5 @@
 # PyTorch Image Classifier - Ant vs Bee
-
+# Refactor code from PyTorch homepage
 Image classification project using PyTorch with ResNet18 and VGG16 backbones to classify ants and bees.
 
 ## Requirements
